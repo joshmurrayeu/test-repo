@@ -1,3 +1,3 @@
 <?php 
-
-echo 'new string';
+$time = now();
+echo $time;
