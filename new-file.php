@@ -1,3 +1,3 @@
 <?php 
-$time = now();
+$time = time();
 echo $time;
